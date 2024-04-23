@@ -2,6 +2,7 @@
 
 1. Install the Gatsby CLI
 
+
    ```sh
    npm install -g gatsby-cli
    ```
